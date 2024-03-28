@@ -1,3 +1,5 @@
+**Update**: 2024.3.28. We upload the preview code of the metadata generation. We place the code under the `data_process` directory.
+
 # MMT-Bench
 
 This repository contains code to evaluate LVLMs on the MMT-Bench.
